@@ -61,14 +61,14 @@ p{
     margin: 30px 0 0 0;
     line-height: 33px;
 }
-.red{
-    color: #D60F2D;
+.green{
+    color: #2AAF62;
     border: 0;
 }
-.red:hover{
+.green:hover{
     font-weight: 700;
-    border-bottom: 2px solid #D60F2D;
-    background:#fbdfdf;
+    border-bottom: 2px solid #2AAF62;
+    background:#98ecbb;
 }
 .purple{
     color: #6A1ED3;
